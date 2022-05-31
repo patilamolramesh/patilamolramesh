@@ -1,10 +1,10 @@
 ### I am Amol Patil 👋
 
-🔭 I’m currently working on Supply chain analytics.
+🔭 I’m currently working on Supply chain Analytics.
 
 🌱 I’m currently learning Machine Learning.
 
-👯 I’m looking to collaborate on Supply chain topics.
+👯 I’m looking to collaborate on Supply Chain topics.
 
 🤔 I’m looking for help with Demand forecasting analysis
 
